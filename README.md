@@ -1,7 +1,5 @@
 # Clothing Store Management System in C
 
-![Clothing Store Banner](link_to_banner_or_screenshot.png)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -42,4 +40,4 @@ The Clothing Store Management System is a C language-based project designed to h
 1. Clone the repository using the following command:
 
    ```bash
-   git clone https://github.com/your-username/clothing-store.git
+   [git clone https://github.com/your-username/clothing-store.git](https://github.com/nim3xh/Clothing-store-management-system-project-in-c.git)https://github.com/nim3xh/Clothing-store-management-system-project-in-c.git
